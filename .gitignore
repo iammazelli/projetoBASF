@@ -1,0 +1,5 @@
+data/
+database/
+*.db
+*.csv
+__pycache__/

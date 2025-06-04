@@ -1,0 +1,6 @@
+#ignorar pastas data/, database/ e venv/
+data/
+database/
+__pycache__/
+*.db
+*.csv
